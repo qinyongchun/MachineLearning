@@ -1,0 +1,3 @@
+jt -t grade3 -f roboto -fs 13 -altp -tfs 11 -nfs 11 -ofs 11 -cellw 80% -T
+
+
